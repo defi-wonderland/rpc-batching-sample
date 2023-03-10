@@ -1,1 +1,1 @@
-# rpc-batching-sample
+# RPC BATCHING SAMPLE
