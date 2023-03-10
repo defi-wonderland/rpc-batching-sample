@@ -1,4 +1,4 @@
-# RPC BATCHING SAMPLE
+# RPC Request Batching Sample
 
 We recommend reading the full explanation at [RPC Request Batching Easily 10x your requests performance](https://defi-wonderland.notion.site/RPC-Request-Batching-Easily-10x-your-requests-performance-7ac7704cdd53473fb132f66d36211edd) before using this repository.
 
